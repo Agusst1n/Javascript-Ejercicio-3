@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "Tercer ejercicio con javascript y node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agusting godoy",
+  "license": "ISC"
+}
